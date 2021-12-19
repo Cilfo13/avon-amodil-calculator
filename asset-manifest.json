@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/avon-amodil-calculator/static/css/main.51c7e7aa.chunk.css",
+    "main.js": "/avon-amodil-calculator/static/js/main.4a13466c.chunk.js",
+    "main.js.map": "/avon-amodil-calculator/static/js/main.4a13466c.chunk.js.map",
+    "runtime-main.js": "/avon-amodil-calculator/static/js/runtime-main.38f0b4d2.js",
+    "runtime-main.js.map": "/avon-amodil-calculator/static/js/runtime-main.38f0b4d2.js.map",
+    "static/js/2.cb4b0aa3.chunk.js": "/avon-amodil-calculator/static/js/2.cb4b0aa3.chunk.js",
+    "static/js/2.cb4b0aa3.chunk.js.map": "/avon-amodil-calculator/static/js/2.cb4b0aa3.chunk.js.map",
+    "static/js/3.0f0a45a0.chunk.js": "/avon-amodil-calculator/static/js/3.0f0a45a0.chunk.js",
+    "static/js/3.0f0a45a0.chunk.js.map": "/avon-amodil-calculator/static/js/3.0f0a45a0.chunk.js.map",
+    "index.html": "/avon-amodil-calculator/index.html",
+    "static/css/main.51c7e7aa.chunk.css.map": "/avon-amodil-calculator/static/css/main.51c7e7aa.chunk.css.map",
+    "static/js/2.cb4b0aa3.chunk.js.LICENSE.txt": "/avon-amodil-calculator/static/js/2.cb4b0aa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38f0b4d2.js",
+    "static/js/2.cb4b0aa3.chunk.js",
+    "static/css/main.51c7e7aa.chunk.css",
+    "static/js/main.4a13466c.chunk.js"
+  ]
+}
